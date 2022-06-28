@@ -1,0 +1,11 @@
+this is the test file
+wow
+this
+cool
+X-CONFIDENCE:          0.8475
+X-DSPAM-CONFIDENCE:          0.1
+X-DSPAM-CONFIDENCE:          0.1
+X-DSPAM-CONFIDENCE:          0.2
+X-DSPAM-CONFIDENCE:          0.3
+X-DSPAM-CONFIDENCE:          0.2
+X-DSPAM-CONFIDENCE:          0.1
