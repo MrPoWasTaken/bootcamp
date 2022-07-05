@@ -1,11 +1,1 @@
-this is the test file
-wow
-this
-cool
-X-CONFIDENCE:          0.8475
-X-DSPAM-CONFIDENCE:          0.1
-X-DSPAM-CONFIDENCE:          0.1
-X-DSPAM-CONFIDENCE:          0.2
-X-DSPAM-CONFIDENCE:          0.3
-X-DSPAM-CONFIDENCE:          0.2
-X-DSPAM-CONFIDENCE:          0.1
+this is a test file that is used to do something im not sure what it is for but it is sure for something
